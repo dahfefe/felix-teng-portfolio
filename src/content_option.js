@@ -12,7 +12,7 @@ const introdata = {
         third: "I have a weird joy for data management",
     },
     description: "Currently, I am a freelance developer assisting clients dominantly with frontend design, e-commerce management, and data management.",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/449382262_10230868873401964_5175999602393916229_n.jpg?stp=c0.13.480.480a_dst-jpg_p480x480&_nc_cat=109&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=cN2s_7XQZSAQ7kNvgGCU5Ft&_nc_ht=scontent-sjc3-1.xx&oh=00_AYBM1jo6ODR3vSyFjgoomp6tXMzTiHpvmzW0t_VFH9Eg2w&oe=668592E4",
 };
 
 const dataabout = {
