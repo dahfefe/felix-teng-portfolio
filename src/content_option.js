@@ -1,23 +1,23 @@
-const logotext = "JOHN";
+const logotext = "FELIX TENG";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Felix Teng",
+    description: "I am a full stack developer, currently living in Sacramento, CA",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "Full Stack Developer",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "I love helping clients with low budgets",
+        second: "Attractive designs are a requirement in any project",
+        third: "I have a weird joy for data management",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Currently, I am a freelance developer assisting clients dominantly with frontend design, e-commerce management, and multiple other small scale projects.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "About Me",
+    aboutme: "Currently, I am a freelance developer assisting clients dominantly with frontend design, e-commerce management, and multiple other small scale projects.",
 };
 const worktimeline = [{
         jobtitle: "Designer of week",
