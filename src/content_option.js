@@ -11,13 +11,13 @@ const introdata = {
         second: "Attractive designs are a requirement in any project",
         third: "I have a weird joy for data management",
     },
-    description: "Currently, I am a freelance developer assisting clients dominantly with frontend design, e-commerce management, and multiple other small scale projects.",
+    description: "Currently, I am a freelance developer assisting clients dominantly with frontend design, e-commerce management, and data management.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
     title: "About Me",
-    aboutme: "Currently, I am a freelance developer assisting clients dominantly with frontend design, e-commerce management, and multiple other small scale projects.",
+    aboutme: "Currently, I am a freelance developer assisting clients dominantly with frontend design, e-commerce management, and data management.",
 };
 const worktimeline = [{
         jobtitle: "Designer of week",
