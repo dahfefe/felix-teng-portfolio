@@ -7,12 +7,13 @@ const meta = {
 const introdata = {
     title: "Full Stack Developer",
     animated: {
-        first: "I love helping clients with low budgets",
-        second: "Attractive designs are a requirement in any project",
-        third: "I have a weird joy for data management",
+        first: "Peak Efficiency",
+        second: "Effective Team Leader",
+        third: "Adaptable, Receptive, Relentless",
+        fourth: "Exceeds Expectations"
     },
     description: "Currently, I am a freelance developer assisting clients dominantly with frontend design, e-commerce management, and data management.",
-    your_img_url: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-1/449382262_10230868873401964_5175999602393916229_n.jpg?stp=c0.13.480.480a_dst-jpg_p480x480&_nc_cat=109&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=cN2s_7XQZSAQ7kNvgGCU5Ft&_nc_ht=scontent-sjc3-1.xx&oh=00_AYBM1jo6ODR3vSyFjgoomp6tXMzTiHpvmzW0t_VFH9Eg2w&oe=668592E4",
+    your_img_url: "/Users/felix/bootcamp/homework/felix-teng-portfolio/src/assets/images/image.jpg",
 };
 
 const dataabout = {
